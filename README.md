@@ -4,11 +4,11 @@
   <!-- - [Table of Contents](#table-of-contents) -->
   - [About](#about)
   - [Getting Started](#getting-started)
-  - [Dependencies](#dependencies)
-  - [Installing](#installing)
-  - [Executing Program:](#executing-program)
-  - [Additional Material](#additional-material)
-  - [Important Files](#important-files)
+    - [Dependencies](#dependencies)
+    - [Installing](#installing)
+    - [Executing Program:](#executing-program)
+    - [Additional Material](#additional-material)
+    - [Important Files](#important-files)
   - [Acknowledgements](#acknowledgements)
 
 <a name="about"></a>
