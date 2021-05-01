@@ -14,7 +14,7 @@
 <a name="about"></a>
 ## About
 
-Disaster response presents significant challenges to the support system and social communities for a variety of reasons
+Disaster response presents significant challenges to the support system and social communities for a variety of reasons.
 
 This Project is part of the Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. 
 
